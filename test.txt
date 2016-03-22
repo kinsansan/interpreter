@@ -1,0 +1,9 @@
+a=5
+PRINT a
+IF a = 5 THEN  a = 6  ELSE a = 7
+PRINT a
+DO UNTIL a<1
+PRINT "BBB"
+a=a-1
+LOOP
+END
