@@ -17,7 +17,7 @@ public class Main {
 
                 System.out.println("basic parser");
 	        try {
-	            fin = new FileInputStream("./src/newlang8/test.txt");
+	            fin = new FileInputStream("test.txt");
 	        }
 	        catch(Exception e) {
 	            System.out.println("file not found");
